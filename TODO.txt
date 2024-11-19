@@ -1,1 +1,1 @@
-* Testing new bullet point
+* Testing bullet point
