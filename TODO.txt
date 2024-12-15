@@ -1,5 +1,0 @@
-* Testing bullet point
-
-** New test
-
-** HMC
